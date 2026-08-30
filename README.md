@@ -1237,9 +1237,9 @@ Every contribution helps improve KubeVision.
 
 # 👨‍💻 Author
 
-**Saurav Kumar**
+**Gurajapu Vinay Teja**
 
-DevOps Engineer • Cloud Engineer • Full Stack Developer
+DevOps Engineer • Cloud Engineer 
 
 ### Connect with me
 
